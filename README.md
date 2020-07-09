@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Jackson Bates is a software developer specialising in JavaScript](https://github.com/JacksonBates/JacksonBates/blob/master/github_hero.png)](https://jacksonbates.github.io)
 
 <!--
 **JacksonBates/JacksonBates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
