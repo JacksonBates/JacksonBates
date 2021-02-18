@@ -1,4 +1,8 @@
-[![Jackson Bates is a software developer specialising in JavaScript](https://github.com/JacksonBates/JacksonBates/blob/master/github_hero.png)](https://jacksonbates.github.io)
+[![Jackson Bates is a software developer specialising in JavaScript](https://github.com/JacksonBates/JacksonBates/blob/master/github_hero.png)](https://jacksonbates.com)
+
+See more at my site: <a href="https://jacksonbates.com">Jackson Bates</a>.
+
+I'm also available for some freelance consulting gigs: <a href="https://jacksonbates.com/consulting.html">Melbourne React, Laravel and AWS Consulting</a>.
 
 <!--
 **JacksonBates/JacksonBates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
