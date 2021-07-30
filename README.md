@@ -2,8 +2,6 @@
 
 See more at my site: <a href="https://jacksonbates.com">Jackson Bates</a>.
 
-I'm also available for some freelance consulting gigs: <a href="https://jacksonbates.com/consulting.html">Melbourne React, Laravel and AWS Consulting</a>.
-
 <!--
 **JacksonBates/JacksonBates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
